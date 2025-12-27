@@ -11,7 +11,7 @@
 
 ## ⚙️ راه‌اندازی پروژه
 
-۱. نصب وابستگی‌ها:
+۱. Install Dependencies: 
 ```bash
 $ npm install
 
